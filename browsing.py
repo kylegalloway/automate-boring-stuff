@@ -16,10 +16,10 @@ from selenium import webdriver
 # searchElem.send_keys('zophie')
 # searchElem.submit()
 
-# broswer.back()
-# broswer.forward()
-# broswer.refresh()
-# broswer.quit()
+# browser.back()
+# browser.forward()
+# browser.refresh()
+# browser.quit()
 
 # elem = browser.find_element_by_css_selector('body > div.main > div:nth-child(1) > p:nth-child(6)')
 # print(elem.text)
